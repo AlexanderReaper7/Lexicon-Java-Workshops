@@ -8,4 +8,8 @@ pseudocode and diagrams
 
 ## calculator
 
-The first java programming workshop, make a calculator console application.
+The first java fundamentals workshop, make a calculator console application.
+
+## converter
+
+The second java fundamentals workshop.
